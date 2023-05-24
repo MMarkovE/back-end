@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Producto 1",
+        "description": "Descripción del producto 1",
+        "price": 10.99,
+        "thumbnail": "ruta/imagen1.jpg",
+        "code": "ABC123",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "description": "Descripción del producto 2",
+        "price": 15.99,
+        "thumbnail": "ruta/imagen2.jpg",
+        "code": "DEF456",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "description": "Descripción del producto 3",
+        "price": 8.99,
+        "thumbnail": "ruta/imagen3.jpg",
+        "code": "GHI789",
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "title": "Producto 4",
+        "description": "Descripción del producto 4",
+        "price": 12.99,
+        "thumbnail": "ruta/imagen4.jpg",
+        "code": "JKL012",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "Producto 5",
+        "description": "Descripción del producto 5",
+        "price": 9.99,
+        "thumbnail": "ruta/imagen5.jpg",
+        "code": "MNO345",
+        "stock": 18
+    },
+    {
+        "id": 6,
+        "title": "Producto 6",
+        "description": "Descripción del producto 6",
+        "price": 14.99,
+        "thumbnail": "ruta/imagen6.jpg",
+        "code": "PQR678",
+        "stock": 22
+    },
+    {
+        "id": 7,
+        "title": "Producto 7",
+        "description": "Descripción del producto 7",
+        "price": 11.99,
+        "thumbnail": "ruta/imagen7.jpg",
+        "code": "STU901",
+        "stock": 17
+    },
+    {
+        "id": 8,
+        "title": "Producto 8",
+        "description": "Descripción del producto 8",
+        "price": 13.99,
+        "thumbnail": "ruta/imagen8.jpg",
+        "code": "VWX234",
+        "stock": 28
+    },
+    {
+        "id": 9,
+        "title": "Producto 9",
+        "description": "Descripción del producto 9",
+        "price": 7.99,
+        "thumbnail": "ruta/imagen9.jpg",
+        "code": "YZA567",
+        "stock": 12
+    },
+    {
+        "id": 10,
+        "title": "Producto 10",
+        "description": "Descripción del producto 10",
+        "price": 17.99,
+        "thumbnail": "ruta/imagen10.jpg",
+        "code": "BCD890",
+        "stock": 35
+    }
+]
